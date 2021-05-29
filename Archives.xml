@@ -1,1 +1,5 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1622263817019" Description="version A" Name="version A" PackageName="version A.spk" UserID="sasdemo00" Version="8fee0e4">
+<ContainObj>SBIP://METASERVER/GPB_Hack/prepare_data/Job_Log(Job)</ContainObj>
+</ArchInfo>
+</ROOT>
