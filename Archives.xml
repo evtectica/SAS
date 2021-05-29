@@ -11,4 +11,7 @@
 <ArchInfo Date="1622264777998" Description="prepare_data_v2" Name="prepare_data_v2" PackageName="prepare_data_v2.spk" UserID="sasdemo00" Version="dca60a9">
 <ContainObj>SBIP://METASERVER/GPB_Hack/prepare_data/prepare_data(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1622265352856" Description="prepare_data_v3" Name="prepare_data_v3" PackageName="prepare_data_v3.spk" UserID="sasdemo00" Version="b7cf0e9">
+<ContainObj>SBIP://METASERVER/GPB_Hack/prepare_data/prepare_data(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
