@@ -5,4 +5,7 @@
 <ArchInfo Date="1622264298697" Description="Log 1" Name="prepare_data" PackageName="prepare_data.spk" UserID="sasdemo00" Version="6a212a6">
 <ContainObj>SBIP://METASERVER/GPB_Hack/prepare_data/prepare_data(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1622264581978" Description="prepare_data_v1" Name="prepare_data_v1" PackageName="prepare_data_v1.spk" UserID="sasdemo00" Version="34c65f1">
+<ContainObj>SBIP://METASERVER/GPB_Hack/prepare_data/prepare_data(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
